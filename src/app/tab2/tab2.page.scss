@@ -1,0 +1,31 @@
+ion-img {
+    max-height: 50vh;
+    overflow: hidden;
+    width: 25%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  ion-title {
+    color: rgb(7, 86, 97);
+    font-family: script MT;
+    font-style: italic bold;
+    text-align: center;
+    font-size: 3em;
+  }
+
+  ion-card-title {
+    color: rgb(139, 94, 8);
+    font-family: cursive;
+    text-align: center;
+  }
+  p{
+    color: rgb(22, 58, 6);
+    text-align: center;
+    font-size: 1em;
+  }
+  ion-card-subtitle{
+    text-align: center;
+    color: rgb(22, 58, 6);
+  }
